@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYM2XqNg4YuuDJJHYGW2lfRSsBG2XsDFPRgpDgP7MQFym87d6gxPSLliP87D3yZX/Aodmpy6T9P5gbrBn0W6XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Philip\\RiderProjects\\Philip_Kirby_TP3\\Philip_Kirby_TP3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Philip\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

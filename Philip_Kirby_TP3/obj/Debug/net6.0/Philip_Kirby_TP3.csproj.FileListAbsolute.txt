@@ -1,0 +1,17 @@
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.csproj.AssemblyReference.cache
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.AssemblyInfoInputs.cache
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.AssemblyInfo.cs
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.csproj.CoreCompileInputs.cache
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\bin\Debug\net6.0\Philip_Kirby_TP3.exe
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\bin\Debug\net6.0\Philip_Kirby_TP3.deps.json
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\bin\Debug\net6.0\Philip_Kirby_TP3.runtimeconfig.json
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\bin\Debug\net6.0\Philip_Kirby_TP3.dll
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\bin\Debug\net6.0\Philip_Kirby_TP3.pdb
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.csproj.CopyComplete
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.dll
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\refint\Philip_Kirby_TP3.dll
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.pdb
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\Philip_Kirby_TP3.genruntimeconfig.cache
+C:\Users\Philip\RiderProjects\Philip_Kirby_TP3\obj\Debug\net6.0\ref\Philip_Kirby_TP3.dll
